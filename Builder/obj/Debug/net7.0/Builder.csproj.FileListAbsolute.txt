@@ -1,0 +1,14 @@
+C:\Proba\Builder\bin\Debug\net7.0\Builder.exe
+C:\Proba\Builder\bin\Debug\net7.0\Builder.deps.json
+C:\Proba\Builder\bin\Debug\net7.0\Builder.runtimeconfig.json
+C:\Proba\Builder\bin\Debug\net7.0\Builder.dll
+C:\Proba\Builder\bin\Debug\net7.0\Builder.pdb
+C:\Proba\Builder\obj\Debug\net7.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proba\Builder\obj\Debug\net7.0\Builder.AssemblyInfoInputs.cache
+C:\Proba\Builder\obj\Debug\net7.0\Builder.AssemblyInfo.cs
+C:\Proba\Builder\obj\Debug\net7.0\Builder.csproj.CoreCompileInputs.cache
+C:\Proba\Builder\obj\Debug\net7.0\Builder.dll
+C:\Proba\Builder\obj\Debug\net7.0\refint\Builder.dll
+C:\Proba\Builder\obj\Debug\net7.0\Builder.pdb
+C:\Proba\Builder\obj\Debug\net7.0\Builder.genruntimeconfig.cache
+C:\Proba\Builder\obj\Debug\net7.0\ref\Builder.dll
