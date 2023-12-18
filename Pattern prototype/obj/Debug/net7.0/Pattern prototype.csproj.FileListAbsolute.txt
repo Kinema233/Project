@@ -1,0 +1,14 @@
+C:\Proba\Pattern prototype\bin\Debug\net7.0\Pattern prototype.exe
+C:\Proba\Pattern prototype\bin\Debug\net7.0\Pattern prototype.deps.json
+C:\Proba\Pattern prototype\bin\Debug\net7.0\Pattern prototype.runtimeconfig.json
+C:\Proba\Pattern prototype\bin\Debug\net7.0\Pattern prototype.dll
+C:\Proba\Pattern prototype\bin\Debug\net7.0\Pattern prototype.pdb
+C:\Proba\Pattern prototype\obj\Debug\net7.0\Pattern prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proba\Pattern prototype\obj\Debug\net7.0\Pattern prototype.AssemblyInfoInputs.cache
+C:\Proba\Pattern prototype\obj\Debug\net7.0\Pattern prototype.AssemblyInfo.cs
+C:\Proba\Pattern prototype\obj\Debug\net7.0\Pattern prototype.csproj.CoreCompileInputs.cache
+C:\Proba\Pattern prototype\obj\Debug\net7.0\Pattern prototype.dll
+C:\Proba\Pattern prototype\obj\Debug\net7.0\refint\Pattern prototype.dll
+C:\Proba\Pattern prototype\obj\Debug\net7.0\Pattern prototype.pdb
+C:\Proba\Pattern prototype\obj\Debug\net7.0\Pattern prototype.genruntimeconfig.cache
+C:\Proba\Pattern prototype\obj\Debug\net7.0\ref\Pattern prototype.dll
