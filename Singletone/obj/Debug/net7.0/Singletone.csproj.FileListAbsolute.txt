@@ -1,0 +1,14 @@
+C:\Proba\Singletone\bin\Debug\net7.0\Singletone.exe
+C:\Proba\Singletone\bin\Debug\net7.0\Singletone.deps.json
+C:\Proba\Singletone\bin\Debug\net7.0\Singletone.runtimeconfig.json
+C:\Proba\Singletone\bin\Debug\net7.0\Singletone.dll
+C:\Proba\Singletone\bin\Debug\net7.0\Singletone.pdb
+C:\Proba\Singletone\obj\Debug\net7.0\Singletone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proba\Singletone\obj\Debug\net7.0\Singletone.AssemblyInfoInputs.cache
+C:\Proba\Singletone\obj\Debug\net7.0\Singletone.AssemblyInfo.cs
+C:\Proba\Singletone\obj\Debug\net7.0\Singletone.csproj.CoreCompileInputs.cache
+C:\Proba\Singletone\obj\Debug\net7.0\Singletone.dll
+C:\Proba\Singletone\obj\Debug\net7.0\refint\Singletone.dll
+C:\Proba\Singletone\obj\Debug\net7.0\Singletone.pdb
+C:\Proba\Singletone\obj\Debug\net7.0\Singletone.genruntimeconfig.cache
+C:\Proba\Singletone\obj\Debug\net7.0\ref\Singletone.dll
