@@ -1,0 +1,14 @@
+C:\Proba\Adapter pattern\bin\Debug\net7.0\Adapter pattern.exe
+C:\Proba\Adapter pattern\bin\Debug\net7.0\Adapter pattern.deps.json
+C:\Proba\Adapter pattern\bin\Debug\net7.0\Adapter pattern.runtimeconfig.json
+C:\Proba\Adapter pattern\bin\Debug\net7.0\Adapter pattern.dll
+C:\Proba\Adapter pattern\bin\Debug\net7.0\Adapter pattern.pdb
+C:\Proba\Adapter pattern\obj\Debug\net7.0\Adapter pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proba\Adapter pattern\obj\Debug\net7.0\Adapter pattern.AssemblyInfoInputs.cache
+C:\Proba\Adapter pattern\obj\Debug\net7.0\Adapter pattern.AssemblyInfo.cs
+C:\Proba\Adapter pattern\obj\Debug\net7.0\Adapter pattern.csproj.CoreCompileInputs.cache
+C:\Proba\Adapter pattern\obj\Debug\net7.0\Adapter pattern.dll
+C:\Proba\Adapter pattern\obj\Debug\net7.0\refint\Adapter pattern.dll
+C:\Proba\Adapter pattern\obj\Debug\net7.0\Adapter pattern.pdb
+C:\Proba\Adapter pattern\obj\Debug\net7.0\Adapter pattern.genruntimeconfig.cache
+C:\Proba\Adapter pattern\obj\Debug\net7.0\ref\Adapter pattern.dll
