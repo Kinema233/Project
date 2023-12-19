@@ -1,0 +1,14 @@
+C:\Proba\Prototyp_cofe\bin\Debug\net7.0\Prototyp_cofe.exe
+C:\Proba\Prototyp_cofe\bin\Debug\net7.0\Prototyp_cofe.deps.json
+C:\Proba\Prototyp_cofe\bin\Debug\net7.0\Prototyp_cofe.runtimeconfig.json
+C:\Proba\Prototyp_cofe\bin\Debug\net7.0\Prototyp_cofe.dll
+C:\Proba\Prototyp_cofe\bin\Debug\net7.0\Prototyp_cofe.pdb
+C:\Proba\Prototyp_cofe\obj\Debug\net7.0\Prototyp_cofe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proba\Prototyp_cofe\obj\Debug\net7.0\Prototyp_cofe.AssemblyInfoInputs.cache
+C:\Proba\Prototyp_cofe\obj\Debug\net7.0\Prototyp_cofe.AssemblyInfo.cs
+C:\Proba\Prototyp_cofe\obj\Debug\net7.0\Prototyp_cofe.csproj.CoreCompileInputs.cache
+C:\Proba\Prototyp_cofe\obj\Debug\net7.0\Prototyp_cofe.dll
+C:\Proba\Prototyp_cofe\obj\Debug\net7.0\refint\Prototyp_cofe.dll
+C:\Proba\Prototyp_cofe\obj\Debug\net7.0\Prototyp_cofe.pdb
+C:\Proba\Prototyp_cofe\obj\Debug\net7.0\Prototyp_cofe.genruntimeconfig.cache
+C:\Proba\Prototyp_cofe\obj\Debug\net7.0\ref\Prototyp_cofe.dll
